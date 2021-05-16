@@ -2,6 +2,8 @@
 
 [![android]](https://developer.android.com/)
 [![laravel]](https://laravel.com/)
+[![python]](https://www.python.org/)
+[![raspberry]](https://www.raspberrypi.org/)
 [![java]](https://www.java.com/en/)
 
 
@@ -17,4 +19,6 @@
 [java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [laravel]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [android]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+[python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[raspberry]: https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white
 
