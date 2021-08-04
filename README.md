@@ -30,6 +30,5 @@
 
 [linkedin]: https://www.linkedin.com/in/michen27/
 [twitter]: https://twitter.com/michen27
-[instagram]: https://www.instagram.com/michael.chen2701/
 
 
