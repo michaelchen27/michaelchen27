@@ -10,12 +10,8 @@
 [![go]](https://golang.org/)
 
 
-<a href>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelchen27&show_icons=true&bg_color=1A1C23&text_color=BBBBBB&title_color=E95678E6&icon_color=F8C291&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" />
-</a>
-<a href>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchen27&layout=compact&langs_count=6&bg_color=1A1C23&text_color=BBBBBB&title_color=E95678E6&hide_border=true" />
-</a>
 
 ### Connect with me:
 [<img align="left" alt="michaelchen27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
