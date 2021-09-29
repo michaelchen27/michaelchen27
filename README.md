@@ -5,6 +5,9 @@
 [![python]](https://www.python.org/)
 [![raspberry]](https://www.raspberrypi.org/)
 [![java]](https://www.java.com/en/)
+[![kotlin]](https://kotlinlang.org/)
+[![swift]](https://developer.apple.com/xcode/swiftui/)
+[![go]](https://golang.org/)
 
 
 <a href>
@@ -26,6 +29,9 @@
 [android]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
 [python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [raspberry]: https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white
+[kotlin]: https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+[swift]: https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
+[go]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 
 [linkedin]: https://www.linkedin.com/in/michen27/
 [twitter]: https://twitter.com/michen27
