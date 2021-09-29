@@ -17,8 +17,8 @@
 </a>
 
 ### Connect with me:
-[<img align="left" alt="michaelchen27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="michaelchen27 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[![linkedin]](https://www.linkedin.com/in/michen27/)
+[![twitter]](https://twitter.com/michen27)
 
 
 <!-- LINKS -->
@@ -32,7 +32,6 @@
 [swift]: https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
 [go]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 
-[linkedin]: https://www.linkedin.com/in/michen27/
-[twitter]: https://twitter.com/michen27
 
-
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[twitter]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
